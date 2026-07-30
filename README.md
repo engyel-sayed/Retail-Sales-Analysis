@@ -6,10 +6,10 @@ An interactive Business Intelligence (BI) dashboard built to analyze retail prod
 ---
 
 ## 🎯 Key Metrics & Visuals
-- **Catalog Overview:** Total Catalogs, Total Products, and Average Products per Catalog.
-- **Category Analytics:** Breakdown of product distribution across catalog categories.
-- **Stock Tracking:** Real-time visibility into product availability and stock status.
-- **Product Performance:** Identification of top-performing products and sales trends.
+- **Catalog Overview**
+- **Category Analytics**
+- **Stock Tracking**
+- **Product Performance**
 
 ---
 
